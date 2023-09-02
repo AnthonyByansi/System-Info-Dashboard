@@ -26,7 +26,7 @@ Before running the System Info Dashboard, ensure you have the following prerequi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SystemInfoDashboard.git
+   https://github.com/AnthonyByansi/System-Info-Dashboard.git
    ```
 
 2. Navigate to the project directory:
