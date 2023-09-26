@@ -5,8 +5,6 @@
 
 The System Info Dashboard is a Bash script that displays real-time system information such as CPU temperature, fan speed, and network statistics. This dashboard provides a quick and easy way to monitor your system's vital statistics from the command line.
 
-![Dashboard Screenshot](screenshot.png)
-
 ## Features
 
 - Display real-time CPU temperature.
