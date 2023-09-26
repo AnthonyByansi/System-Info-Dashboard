@@ -74,7 +74,7 @@ For any questions or suggestions, feel free to contact the project maintainers:
 
 - Your Name
   - Email: byansianthony@gmail.com
-  - GitHub: [yourusername](https://github.com/AnthonyByansi)
+  - GitHub: [GitHub profile](https://github.com/AnthonyByansi)
   
 ## Donate
 
